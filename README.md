@@ -8,10 +8,10 @@ Mục tiêu là phân nhóm các loài hoa Iris (Setosa, Versicolor, Virginica) 
 
 ## Cấu trúc thư mục
 Kmean_iris/
-│── main.py
-│── requirements.txt
-│── Iris.csv 
-│── README.md 
+│main.py
+│requirements.txt
+│Iris.csv 
+│README.md 
 
 - B1: Trước tiên tạo virtual environment
 - B2: pip install -r requirements.txt
