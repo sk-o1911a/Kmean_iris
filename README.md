@@ -11,7 +11,7 @@ Mục tiêu là phân nhóm các loài hoa Iris (Setosa, Versicolor, Virginica) 
 - B2: pip install -r requirements.txt
 - python main.py
 
-##Yêu cầu hệ thống
+## Yêu cầu hệ thống
 Python 3.8+
 Các thư viện: numpy, pandas, matplotlib
 
