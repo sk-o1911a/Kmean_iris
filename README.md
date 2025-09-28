@@ -6,18 +6,12 @@ Mục tiêu là phân nhóm các loài hoa Iris (Setosa, Versicolor, Virginica) 
 - Chiều dài và chiều rộng đài hoa (Sepal)  
 - Chiều dài và chiều rộng cánh hoa (Petal)  
 
-## Cấu trúc thư mục
-Kmean_iris/
-│main.py
-│requirements.txt
-│Iris.csv 
-│README.md 
-
+## Các bước để chạy
 - B1: Trước tiên tạo virtual environment
 - B2: pip install -r requirements.txt
 - python main.py
 
-Yêu cầu hệ thống
+##Yêu cầu hệ thống
 Python 3.8+
 Các thư viện: numpy, pandas, matplotlib
 
