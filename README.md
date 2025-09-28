@@ -15,5 +15,5 @@ Mục tiêu là phân nhóm các loài hoa Iris (Setosa, Versicolor, Virginica) 
 Python 3.8+
 Các thư viện: numpy, pandas, matplotlib
 
-Tác giả: Nguyễn Quốc Khánh - 42200211
-📌 Project HK1_2025_40213760_Học máy và ứng dụng_N03: K-Means Clustering on Iris Dataset
+Tác giả: Nguyễn Quốc Khánh - 42200211.
+📌 Project HK1_2025_40213760_Học máy và ứng dụng_N03: K-Means Clustering on Iris Dataset.
